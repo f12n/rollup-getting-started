@@ -1,16 +1,21 @@
-# rollup-starter-app
+# rollup-getting-started
 
-This repo contains a bare-bones example of how to create an application using Rollup, including importing a module from `node_modules` and converting it from CommonJS.
+basid on project:
+https://github.com/rollup/rollup-starter-app
 
-*See also https://github.com/rollup/rollup-starter-lib*
+## Related links：
+something about (package.json).module
+https://juejin.im/entry/5a99ed5c6fb9a028cd448d6a
 
+## Rollup guide:
+https://rollupjs.org/guide/en
 
 ## Getting started
 
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/rollup/rollup-starter-app
+git clone https://github.com/f12n/rollup-getting-started.git
 cd rollup-starter-app
 npm install
 ```
